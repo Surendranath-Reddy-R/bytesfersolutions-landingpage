@@ -1,0 +1,23 @@
+#categories {
+    padding: 60px 20px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .categories-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+  .category {
+    width: 25%;
+    background-color:cornsilk;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+  }
+  

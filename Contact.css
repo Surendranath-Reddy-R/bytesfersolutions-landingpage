@@ -1,0 +1,18 @@
+#contact {
+    padding: 60px 20px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .contact-button {
+    background: #f4b400;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .contact-button :hover{
+    color: black;
+  }
+
+  
